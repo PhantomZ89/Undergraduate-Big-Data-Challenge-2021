@@ -1,0 +1,4 @@
+1- for each new piece of info that is published/released, search reporting news articles for said source
+2- classify each article by degree of information-misinformation
+	2.1- use weighted cats for clickbait and closeness to source
+3- display correlation between user engagement and article degree
